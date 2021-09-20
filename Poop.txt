@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<body>
+<h1>Project Website</h1>
+<p><em>This web page is for <strong>practice</strong> html.</em></p>
+<br>
+<p>This is a <a href="https://www.nyan.cat/"><em>Usefull</em> link</a>.</p>
+<a src="">
+<br>
+<input placeholder="Name the Picture">
+<button>Submit</button>
+<br>
+<p>Choose a color</p>
+<input type="color">
+</body>
+</html>
